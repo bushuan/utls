@@ -1,4 +1,4 @@
-module github.com/bushuan/utls
+module github.com/refraction-networking/utls
 
 go 1.19
 
